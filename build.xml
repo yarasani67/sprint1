@@ -1,0 +1,7 @@
+<project name="sprint1" default="WAR-build" basedir=".">
+	<description>sprint1 - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
